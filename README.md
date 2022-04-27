@@ -12,4 +12,4 @@
 
 **Cсылка на страницу проекта**
 
-* [Ссылка: "Путешествие по России"](https://mariyazakharova73.github.io/russian-travel/)
+* [Ссылка: "Путешествие по России"](https://mariyazakharova73.github.io/russian-travel/index.html)

@@ -4,6 +4,9 @@
   line-height: 122%;
   color: inherit;
   transition: opacity 0.5s linear;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+  
 }
 
 .place__link:hover {
